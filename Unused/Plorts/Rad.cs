@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using static Utility;
+
 namespace EnhancedPlorts.Data.Plorts
 {
     internal class Rad

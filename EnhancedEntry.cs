@@ -1,14 +1,7 @@
 ﻿using EnhancedPlorts.Data.Plorts;
 using MelonLoader;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using UnityEngine;
-using static Utility;
 
-[assembly: MelonInfo(typeof(EnhancedPlorts.ModEntry), "Enhanced Plorts", "1.0", "FruitsyOG")]
+[assembly: MelonInfo(typeof(EnhancedPlorts.ModEntry), "Enhanced Plorts", "1.1", "FruitsyOG")]
 [assembly: MelonGame("MonomiPark", "SlimeRancher2")]
 namespace EnhancedPlorts
 {

@@ -1,6 +1,7 @@
-﻿using System.IO;
+﻿using Il2Cpp;
+using Il2CppInterop.Runtime;
+using System;
 using System.Linq;
-using System.Reflection;
 using UnityEngine;
 
 internal class Utility
